@@ -1,0 +1,8 @@
+{
+  "name": "string [must be official name]",
+  "artists": "string [must put all artists]",
+  "midiFilename": "string",
+  "imageFilename": "string",
+  "githubUser": "string [only your username]",
+  "arrangement": "string [arrangement maker]"
+}
