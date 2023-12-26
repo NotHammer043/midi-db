@@ -1359,5 +1359,13 @@
     "imageFilename": "gravityfalls.jpg",
     "githubUser": "NotHammer043",
     "arrangement": ""
+  },
+  {
+    "name": "Solas",
+    "artists": "Jamie Duffy",
+    "midiFilename": "SOLAS - JAMES DUFFY PRIVATE MIDI FILE.mid",
+    "imageFilename": "solas.jpg",
+    "githubUser": "NotHammer043",
+    "arrangement": ""
   }
 ]
