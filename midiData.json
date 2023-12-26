@@ -1367,5 +1367,13 @@
     "imageFilename": "solas.jpg",
     "githubUser": "NotHammer043",
     "arrangement": ""
+  },
+  {
+    "name": "Whistle",
+    "artists": "Flo Rida",
+    "midiFilename": "Whistle.mid",
+    "imageFilename": "josh.jpg",
+    "githubUser": "NotHammer043",
+    "arrangement": "NotHammer043"
   }
 ]
