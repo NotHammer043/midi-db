@@ -145,10 +145,10 @@
     "arrangement": ""
   },
   {
-    "name": "Wii Shop Channel Theme",
+    "name": "Mii Channel Music",
     "artists": "Kazumi Totaka",
-    "midiFilename": "Wii_Shop_Channel_Theme.mid",
-    "imageFilename": "Wii_Shop_Channel.jpeg",
+    "midiFilename": "Mii_Channel_Theme.mid",
+    "imageFilename": "Mii_Channel.jpeg",
     "githubUser": "CrimsonfiedOfficial",
     "arrangement": ""
   },
@@ -881,8 +881,8 @@
     "arrangement": "sheepwonha"
   },
   {
-    "name": "Shop Channel Music",
-    "artists": "Nintendo Wii",
+    "name": "Wii Shop Channel Theme",
+    "artists": "Kazumi Totaka",
     "midiFilename": "Wii_Shop_Theme_Piano_Solo.mid",
     "imageFilename": "Wii_Shop_Theme_Piano_Solo.jpg",
     "githubUser": "NotHammer043",
