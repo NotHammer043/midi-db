@@ -1383,5 +1383,13 @@
     "imageFilename": "lovelybastards.jpg",
     "githubUser": "NotHammer043",
     "arrangement": "philiphchen"
+  },
+  {
+    "name": "Kerosene",
+    "artists": "Crystal Castles",
+    "midiFilename": "kerosene.mid",
+    "imageFilename": "kerosene.jpg",
+    "githubUser": "NotHammer043",
+    "arrangement": "philiphchen"
   }
 ]
