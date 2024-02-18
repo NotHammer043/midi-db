@@ -1398,5 +1398,13 @@
     "imageFilename": "Runaway_Kanye_West_artwork.png",
     "githubUser": "NotHammer43",
     "arrangement": "?"
+  },
+  {
+    "name": "Runaway",
+    "artists": "Kanye West",
+    "midiFilename": "runaway.mid",
+    "imageFilename": "Runaway_Kanye_West_artwork.png",
+    "githubUser": "NotHammer43",
+    "arrangement": "?"
   }
 ]
