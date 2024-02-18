@@ -39,7 +39,6 @@
     "githubUser": "CrimsonfiedOfficial",
     "arrangement": ""
   },
-  
   {
     "name": "Bonetrousle",
     "artists": "Toby Fox",
@@ -94,7 +93,7 @@
     "midiFilename": "Another_Love.mid",
     "imageFilename": "Another_Love.jpeg",
     "githubUser": "CrimsonfiedOfficial",
-	"arrangement": ""
+    "arrangement": ""
   },
   {
     "name": "Ballin",
@@ -265,7 +264,7 @@
     "arrangement": ""
   },
   {
-    "name": "Bergentrückung",
+    "name": "Bergentr\u00fcckung",
     "artists": "Toby Fox",
     "midiFilename": "Bergentr\u00fcckung %28UNDERTALE%29.mid",
     "imageFilename": "undertale.png",
@@ -472,7 +471,7 @@
     "githubUser": "NotHammer043",
     "arrangement": ""
   },
-    {
+  {
     "name": "Discord",
     "artists": "The Living Tombstone",
     "midiFilename": "The_Living_Tombstone_-_Discord_-_(Remix).mid",
@@ -1241,24 +1240,24 @@
     "arrangement": "Sheet Music Boss"
   },
   {
-    "name": "知らないままで (As you don't know)",
-    "artists": "ロクデナシ (Rokudenashi)",
+    "name": "\u77e5\u3089\u306a\u3044\u307e\u307e\u3067 (As you don't know)",
+    "artists": "\u30ed\u30af\u30c7\u30ca\u30b7 (Rokudenashi)",
     "midiFilename": "as you don't know.mid",
     "imageFilename": "As you dont know.png",
     "githubUser": "Noob911",
     "arrangement": ""
   },
   {
-    "name": "スピカ (Spica)",
-    "artists": "ロクデナシ (Rokudenashi)",
+    "name": "\u30b9\u30d4\u30ab (Spica)",
+    "artists": "\u30ed\u30af\u30c7\u30ca\u30b7 (Rokudenashi)",
     "midiFilename": "spica.mid",
     "imageFilename": "spica.png",
     "githubUser": "Noob911",
     "arrangement": ""
   },
   {
-    "name": "愛が灯る (The Flame of Love)",
-    "artists": "ロクデナシ (Rokudenashi)",
+    "name": "\u611b\u304c\u706f\u308b (The Flame of Love)",
+    "artists": "\u30ed\u30af\u30c7\u30ca\u30b7 (Rokudenashi)",
     "midiFilename": "aigatomoru.MID",
     "imageFilename": "aigatomoru.png",
     "githubUser": "Noob911",
@@ -1289,8 +1288,8 @@
     "arrangement": ""
   },
   {
-    "name": "ただ君に晴れ (Cloudless)",
-    "artists": "ヨルシカ (Yorushika) / n-buna",
+    "name": "\u305f\u3060\u541b\u306b\u6674\u308c (Cloudless)",
+    "artists": "\u30e8\u30eb\u30b7\u30ab (Yorushika) / n-buna",
     "midiFilename": "cloudless.mid",
     "imageFilename": "cloudless.png",
     "githubUser": "Noob911",
@@ -1313,8 +1312,8 @@
     "arrangement": ""
   },
   {
-    "name": "Star tea party (星茶会)",
-    "artists": "灰澈",
+    "name": "Star tea party (\u661f\u8336\u4f1a)",
+    "artists": "\u7070\u6f88",
     "midiFilename": "star tea party.mid",
     "imageFilename": "star tea party.png",
     "githubUser": "Noob911",
@@ -1391,5 +1390,13 @@
     "imageFilename": "kerosene.jpg",
     "githubUser": "NotHammer043",
     "arrangement": "NotHammer043"
+  },
+  {
+    "name": "Runaway",
+    "artists": "Kanye West",
+    "midiFilename": "runaway.mid",
+    "imageFilename": "Runaway_Kanye_West_artwork.png",
+    "githubUser": "NotHammer43",
+    "arrangement": "?"
   }
 ]
