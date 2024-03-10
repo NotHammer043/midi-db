@@ -1396,7 +1396,7 @@
     "artists": "Kanye West",
     "midiFilename": "runaway.mid",
     "imageFilename": "Runaway_Kanye_West_artwork.png",
-    "githubUser": "NotHammer43",
+    "githubUser": "NotHammer043",
     "arrangement": "?"
   },
   {
@@ -1404,7 +1404,7 @@
     "artists": "Christell",
     "midiFilename": "chipichapah.mid",
     "imageFilename": "cat.png",
-    "githubUser": "NotHammer43",
+    "githubUser": "NotHammer043",
     "arrangement": "TridashieRD, AskariFox"
   },
   {
@@ -1412,15 +1412,15 @@
     "artists": "blackbear",
     "midiFilename": "hotgirlbummer.mid",
     "imageFilename": "Blackbear_-_Hot_Girl_Bummer.png",
-    "githubUser": "NotHammer43",
-    "arrangement": "NotHammer43"
+    "githubUser": "NotHammer043",
+    "arrangement": "NotHammer043"
   },
   {
     "name": "Your Reality",
     "artists": "Doki Doki Literature Club!",
     "midiFilename": "your reality.mid",
     "imageFilename": "artworks-000244385321-mv36xw-t500x500.png",
-    "githubUser": "NotHammer43",
+    "githubUser": "NotHammer043",
     "arrangement": "Torby Brand"
   },
   {
@@ -1429,6 +1429,14 @@
     "midiFilename": "The_Amazing_Digital_Circus_Theme.mid",
     "imageFilename": "glitch.jpg",
     "githubUser": "coisasgamer4",
+    "arrangement": ""
+  },
+  {
+    "name": "golden hour x interstellar",
+    "artists": "JVKE, Hans Zimmer",
+    "midiFilename": "goldenhourxinterstellar.mid",
+    "imageFilename": "goldenhourxinterstellar.png",
+    "githubUser": "NotHammer043",
     "arrangement": ""
   }
 ]
