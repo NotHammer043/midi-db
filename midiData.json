@@ -1438,5 +1438,13 @@
     "imageFilename": "goldenhourxinterstellar.png",
     "githubUser": "NotHammer043",
     "arrangement": ""
+  },
+  {
+    "name": "Want you gone",
+    "artists": "Jonathan Coulton",
+    "midiFilename": "Portal 2 - Want You Gone.mid",
+    "imageFilename": "portalwantyougonecover.jpg",
+    "githubUser": "meowgoober/dorker",
+    "arrangement": ""
   }
 ]
