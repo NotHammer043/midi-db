@@ -1,8 +1,8 @@
 {
-  "name": "string [must be official name]",
-  "artists": "string [must put all artists]",
-  "midiFilename": "string",
-  "imageFilename": "string",
-  "githubUser": "string [only your username]",
-  "arrangement": "string [arrangement maker]"
+  "name": "Want you gone",
+  "artists": "Jonathan Coulton",
+  "midiFilename": "Portal 2 - Want You Gone.mid",
+  "imageFilename": "portalwantyougonecover.jpg",
+  "githubUser": "meowgoober/dorker",
+  "arrangement": ""
 }
