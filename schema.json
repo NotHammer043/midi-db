@@ -12,7 +12,7 @@
     "artists": "Charlie Puth, Jung Kook",
     "midiFilename": "Left_and_Right.mid",
     "imageFilename": "Left_and_Right.png",
-    "githubUser": "ThinLiquid"
-    "arrangement": "" // Leave blank if unknown
+    "githubUser": "ThinLiquid",
+    "arrangement": ""
   }
 ]
