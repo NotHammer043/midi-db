@@ -1446,5 +1446,13 @@
     "imageFilename": "portalwantyougonecover.jpg",
     "githubUser": "meowgoober/dorker",
     "arrangement": ""
-  }
+  },
+  {
+  "name": "Stereo madness",
+  "artists": "Forever Bound",
+  "midiFilename": "Stereo_Madness.mid",
+  "imageFilename": "Geometrydash.jpg",
+  "githubUser": "CrimsonfiedOfficial",
+  "arrangement": "TetrisMasterXD"
+}
 ]
