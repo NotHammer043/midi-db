@@ -264,9 +264,9 @@
     "arrangement": ""
   },
   {
-    "name": "Bergentrückung",
+    "name": "Bergentr\u00fcckung",
     "artists": "Toby Fox",
-    "midiFilename": "Bergentrückung %28UNDERTALE%29.mid",
+    "midiFilename": "Bergentr\u00fcckung %28UNDERTALE%29.mid",
     "imageFilename": "undertale.png",
     "githubUser": "NotHammer043",
     "arrangement": ""
@@ -424,7 +424,7 @@
     "arrangement": ""
   },
   {
-    "name": "Uwa!! So HEATS!!♫",
+    "name": "Uwa!! So HEATS!!\u266b",
     "artists": "Toby Fox",
     "midiFilename": "Uwa!! So HEATS!! %28UNDERTALE%29.mid",
     "imageFilename": "undertale.png",
@@ -432,7 +432,7 @@
     "arrangement": ""
   },
   {
-    "name": "Uwa!! So Temperate♫",
+    "name": "Uwa!! So Temperate\u266b",
     "artists": "Toby Fox",
     "midiFilename": "Uwa!! So Temperate %28UNDERTALE%29.mid",
     "imageFilename": "undertale.png",
@@ -840,8 +840,8 @@
     "arrangement": "Leah Tousignant"
   },
   {
-    "name": "热爱105°c的你 (Super Idol)",
-    "artists": "阿肆",
+    "name": "\u70ed\u7231105\u00b0c\u7684\u4f60 (Super Idol)",
+    "artists": "\u963f\u8086",
     "midiFilename": "105C.mid",
     "imageFilename": "105C.jpg",
     "githubUser": "NotHammer043",
@@ -1089,7 +1089,7 @@
   },
   {
     "name": "Touch You",
-    "artists": "Yarichin ☆ Bitch Club Opening",
+    "artists": "Yarichin \u2606 Bitch Club Opening",
     "midiFilename": "Yarichin_B_Club_-_Touch_You_Piano_Sheet.mid",
     "imageFilename": "Yarichin_B_Club_-_Touch_You_Piano_Sheet.jpg",
     "githubUser": "NotHammer043",
@@ -1240,24 +1240,24 @@
     "arrangement": "Sheet Music Boss"
   },
   {
-    "name": "知らないままで (As you don't know)",
-    "artists": "ロクデナシ (Rokudenashi)",
+    "name": "\u77e5\u3089\u306a\u3044\u307e\u307e\u3067 (As you don't know)",
+    "artists": "\u30ed\u30af\u30c7\u30ca\u30b7 (Rokudenashi)",
     "midiFilename": "as you don't know.mid",
     "imageFilename": "As you dont know.png",
     "githubUser": "Noob911",
     "arrangement": ""
   },
   {
-    "name": "スピカ (Spica)",
-    "artists": "ロクデナシ (Rokudenashi)",
+    "name": "\u30b9\u30d4\u30ab (Spica)",
+    "artists": "\u30ed\u30af\u30c7\u30ca\u30b7 (Rokudenashi)",
     "midiFilename": "spica.mid",
     "imageFilename": "spica.png",
     "githubUser": "Noob911",
     "arrangement": ""
   },
   {
-    "name": "愛が灯る (The Flame of Love)",
-    "artists": "ロクデナシ (Rokudenashi)",
+    "name": "\u611b\u304c\u706f\u308b (The Flame of Love)",
+    "artists": "\u30ed\u30af\u30c7\u30ca\u30b7 (Rokudenashi)",
     "midiFilename": "aigatomoru.MID",
     "imageFilename": "aigatomoru.png",
     "githubUser": "Noob911",
@@ -1288,8 +1288,8 @@
     "arrangement": ""
   },
   {
-    "name": "ただ君に晴れ (Cloudless)",
-    "artists": "ヨルシカ (Yorushika) / n-buna",
+    "name": "\u305f\u3060\u541b\u306b\u6674\u308c (Cloudless)",
+    "artists": "\u30e8\u30eb\u30b7\u30ab (Yorushika) / n-buna",
     "midiFilename": "cloudless.mid",
     "imageFilename": "cloudless.png",
     "githubUser": "Noob911",
@@ -1312,8 +1312,8 @@
     "arrangement": ""
   },
   {
-    "name": "Star tea party (星茶会)",
-    "artists": "灰澈",
+    "name": "Star tea party (\u661f\u8336\u4f1a)",
+    "artists": "\u7070\u6f88",
     "midiFilename": "star tea party.mid",
     "imageFilename": "star tea party.png",
     "githubUser": "Noob911",
@@ -1470,5 +1470,13 @@
     "imageFilename": "iltwykm.png",
     "githubUser": "NotHammer043",
     "arrangement": "xZeron"
+  },
+  {
+    "name": "Moonlight Sonata (3rd Movement)",
+    "artists": "Beethoven",
+    "midiFilename": "Moonlight_Sonata_3rd_Movement.mid",
+    "imageFilename": "beethoven.jpg",
+    "githubUser": "NotHammer43",
+    "arrangement": "a"
   }
 ]
