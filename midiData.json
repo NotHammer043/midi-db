@@ -1478,5 +1478,13 @@
     "imageFilename": "beethoven.jpg",
     "githubUser": "NotHammer43",
     "arrangement": "Jeremy Maxwell"
+  },
+  {
+    "name": "Old Doll",
+    "artists": "Mad Father",
+    "midiFilename": "Old_PuppetDoll_-_IbMad_Father_OST.mid",
+    "imageFilename": "olddoll.jpg",
+    "githubUser": "NotHammer43",
+    "arrangement": ""
   }
 ]
