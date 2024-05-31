@@ -1470,5 +1470,13 @@
     "imageFilename": "iltwykm.png",
     "githubUser": "NotHammer043",
     "arrangement": "xZeron"
+  },
+  {
+    "name": "Moonlight Sonata (3rd Movement)",
+    "artists": "Beethoven",
+    "midiFilename": "Moonlight_Sonata_3rd_Movement.mid",
+    "imageFilename": "beethoven.jpg",
+    "githubUser": "NotHammer43",
+    "arrangement": "a"
   }
 ]
