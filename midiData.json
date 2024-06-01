@@ -1574,5 +1574,13 @@
     "imageFilename": "pachelbel_johann.jpeg",
     "githubUser": "NotHammer043",
     "arrangement": "tkbutt"
+  },
+  {
+    "name": "Happy Synthesizer",
+    "artists": "EasyPop, Megurine Luka, GUMI",
+    "midiFilename": "Happy_Synthesizer_-_EasyPop.mid",
+    "imageFilename": "Happysynthesizer.png",
+    "githubUser": "RedxyzXD",
+    "arrangement": ""
   }
 ]
