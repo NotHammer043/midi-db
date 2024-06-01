@@ -6,7 +6,7 @@ ______________________________________________
 ## Links
 Youtube: https://www.youtube.com/@nanoMIDI
 
-Discord: https://discord.gg/QnRctBgagZ
+Discord: https://discord.gg/nanomidi
 
 Gitea: https://git.nanomidi.net/nanoMIDI/midi-db
 
