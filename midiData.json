@@ -1566,5 +1566,13 @@
     "imageFilename": "ab67616d0000b273baf2a68126739ff553f2930a.jpg",
     "githubUser": "NotHammer043",
     "arrangement": "x Patience"
+  },
+  {
+    "name": "Canon In D (Slow)",
+    "artists": "Johann Pachelbel",
+    "midiFilename": "Canon_in_D.mid",
+    "imageFilename": "pachelbel_johann.jpeg",
+    "githubUser": "NotHammer043",
+    "arrangement": "tkbutt"
   }
 ]
