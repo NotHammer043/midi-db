@@ -1758,5 +1758,13 @@
     "imageFilename": "ab67616d0000b2738c8d5428b693308705e7caca.jpg",
     "githubUser": "NotHammer043",
     "arrangement": "HaydenSchu"
+  },
+  {
+    "name": "F\u00fcr Elise",
+    "artists": "Beethoven",
+    "midiFilename": "Fr_Elise.mid",
+    "imageFilename": "beethoven.jpg",
+    "githubUser": "NotHammer043",
+    "arrangement": ""
   }
 ]
