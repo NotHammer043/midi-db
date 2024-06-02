@@ -1862,5 +1862,13 @@
     "imageFilename": "test.jpg",
     "githubUser": "quadsazer",
     "arrangement": "Happy_446152"
+  },
+  {
+    "name": "Kyuu-Kurarin",
+    "artists": "iyowa, KAFU",
+    "midiFilename": "Kyu-kurarin.mid",
+    "imageFilename": "Kyuukurarin_Game_Cover.png",
+    "githubUser": "RedxyzXD",
+    "arrangement": ""
   }
 ]
