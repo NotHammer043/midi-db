@@ -1686,5 +1686,13 @@
     "imageFilename": "download.png",
     "githubUser": "VlLLAIN",
     "arrangement": ""
+  },
+  {
+    "name": "Hit The Road Jack",
+    "artists": "Ray Charles",
+    "midiFilename": "hit_the_road_jack_para_mazmo.mid",
+    "imageFilename": "RaCharles_HTRJ.png",
+    "githubUser": "24332920015884664256155229245436",
+    "arrangement": ""
   }
 ]
