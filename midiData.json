@@ -1638,5 +1638,13 @@
     "imageFilename": "artworks-000434651223-wox2re-t500x500.jpg",
     "githubUser": "cqvx",
     "arrangement": "Sheet Music Boss"
+  },
+  {
+    "name": "Pedro",
+    "artists": "Agatino Romero",
+    "midiFilename": "PEDRO_by_Rafaella_Carra.mid",
+    "imageFilename": "download.jpg",
+    "githubUser": "Gustavo11111312",
+    "arrangement": "Raffaella Carra"
   }
 ]
