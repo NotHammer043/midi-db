@@ -1734,5 +1734,13 @@
     "imageFilename": "artworks-3BlI6MFaGX5T53PZ-C2jdeA-t500x500.jpg",
     "githubUser": "24332920015884664256155229245436",
     "arrangement": ""
+  },
+  {
+    "name": "Nintendo Land - Main Plaza (Daytime)",
+    "artists": "Ryo Nagamatsu, Hajime Wakai",
+    "midiFilename": "Main_Theme_Daytime_8_Bit_-_Nintendo_Land.mid",
+    "imageFilename": "nintendo-land.png",
+    "githubUser": "24332920015884664256155229245436",
+    "arrangement": ""
   }
 ]
