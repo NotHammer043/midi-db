@@ -1918,5 +1918,13 @@
     "imageFilename": "masha.png",
     "githubUser": "NightKikko",
     "arrangement": "NightKikko (Me)"
+  },
+  {
+    "name": "The Seven Deadly Sins opening 1",
+    "artists": "Ikimono-gakari",
+    "midiFilename": "The_Seven_Deadly_Sins_-_Opening_1.mid",
+    "imageFilename": "7ds.png",
+    "githubUser": "NightKikko",
+    "arrangement": "NightKikko"
   }
 ]
