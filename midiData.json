@@ -1942,5 +1942,13 @@
     "imageFilename": "cutedepressed.png",
     "githubUser": "NightKikko",
     "arrangement": "NightKikko"
+  },
+  {
+    "name": "Robbery",
+    "artists": "Juice Wrld",
+    "midiFilename": "Robbery_by_Juice_WRLD.mid",
+    "imageFilename": "hq720.png",
+    "githubUser": "jimborani",
+    "arrangement": ""
   }
 ]
