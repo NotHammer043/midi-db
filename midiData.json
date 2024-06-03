@@ -1910,5 +1910,13 @@
     "imageFilename": "download.jpg",
     "githubUser": "Gustavo11111312",
     "arrangement": "willisjbruh"
+  },
+  {
+    "name": "Masha Ultrafunk",
+    "artists": "HISTED, TXVSTERPLAYA",
+    "midiFilename": "MASHA_ULTRAFUNK.mid",
+    "imageFilename": "masha.png",
+    "githubUser": "NightKikko",
+    "arrangement": "NightKikko (Me)"
   }
 ]
