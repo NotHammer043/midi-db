@@ -1934,5 +1934,13 @@
     "imageFilename": "download_1.jpg",
     "githubUser": "Gustavo11111312",
     "arrangement": "seniorpotato"
+  },
+  {
+    "name": "Cute Depressed (Phonk)",
+    "artists": "Dyan Dxddy",
+    "midiFilename": "CUTE_DEPRESSED.mid",
+    "imageFilename": "cutedepressed.png",
+    "githubUser": "NightKikko",
+    "arrangement": "NightKikko"
   }
 ]
