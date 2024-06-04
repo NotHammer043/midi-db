@@ -1990,5 +1990,13 @@
     "imageFilename": "image_249.png",
     "githubUser": "NotHammer043",
     "arrangement": "Fryderyk Franciszek Chopin"
+  },
+  {
+    "name": "California dreamin'",
+    "artists": "The Mamas & The Papas",
+    "midiFilename": "midi_250.mid",
+    "imageFilename": "image_250.png",
+    "githubUser": "NotHammer043",
+    "arrangement": ""
   }
 ]
