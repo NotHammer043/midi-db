@@ -27,21 +27,21 @@ Enjoy!
 Example:
 ```
 [
-  {
-    "name": "World's Smallest Violin",
-    "artists": "AJR",
-    "midiFilename": "Worlds_Smallest_Violin.mid",
-    "imageFilename": "Worlds_Smallest_Violin.png",
-    "githubUser": "CrimsonfiedOfficial"
-    "arrangement": "F.I.R.E."
-  },
-  {
-    "name": "Left and Right",
-    "artists": "Charlie Puth, Jung Kook",
-    "midiFilename": "Left_and_Right.mid",
-    "imageFilename": "Left_and_Right.png",
-    "githubUser": "ThinLiquid"
-    "arrangement": "" // Leave blank if unknown
-  }
+    {
+      "name": "World's Smallest Violin",
+      "artists": "AJR",
+      "midiFilename": "Worlds_Smallest_Violin.mid",
+      "imageFilename": "Worlds_Smallest_Violin.png",
+      "githubUser": "CrimsonfiedOfficial",
+      "arrangement": "F.I.R.E."
+    },
+    {
+      "name": "Left and Right",
+      "artists": "Charlie Puth, Jung Kook",
+      "midiFilename": "Left_and_Right.mid",
+      "imageFilename": "Left_and_Right.png",
+      "githubUser": "ThinLiquid",
+      "arrangement": "" // Leave blank if unknown
+    }
 ]
 ```
