@@ -1986,16 +1986,16 @@
   {
     "name": "Nocturne in E Flat Major (Op. 9 No. 2)",
     "artists": "Chopin",
-    "midiFilename": "midi_249.mid",
-    "imageFilename": "image_249.png",
+    "midiFilename": "F._Chopin_Nocturne_E_Flat_Major_Op.9_No.2_249.mid",
+    "imageFilename": "images_249.png",
     "githubUser": "NotHammer043",
     "arrangement": "Fryderyk Franciszek Chopin"
   },
   {
     "name": "California dreamin'",
     "artists": "The Mamas & The Papas",
-    "midiFilename": "midi_250.mid",
-    "imageFilename": "image_250.png",
+    "midiFilename": "California_dreamin_-_The_Mamas__The_Papas_250.mid",
+    "imageFilename": "ab67616d0000b273cbd56c3a8faf8cf8c8bea0df_250.png",
     "githubUser": "NotHammer043",
     "arrangement": ""
   }
