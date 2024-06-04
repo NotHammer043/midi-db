@@ -2038,5 +2038,13 @@
     "imageFilename": "artworks-dZOoK2gl1m6RSRIN-5rt4yg-t500x500_255.jpg",
     "githubUser": "NotHammer043",
     "arrangement": "Alex Patience"
+  },
+  {
+    "name": "Bethoven Virus",
+    "artists": "Beethoven, Banya",
+    "midiFilename": "bethoven_virus_256.mid",
+    "imageFilename": "bethoven_256.png",
+    "githubUser": "NightKikko",
+    "arrangement": "NightKikko"
   }
 ]
