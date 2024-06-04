@@ -1982,5 +1982,13 @@
     "imageFilename": "hq720_3.png",
     "githubUser": "jimborani",
     "arrangement": ""
+  },
+  {
+    "name": "Nocturne in E Flat Major (Op. 9 No. 2)",
+    "artists": "Chopin",
+    "midiFilename": "midi_249.mid",
+    "imageFilename": "image_249.png",
+    "githubUser": "NotHammer043",
+    "arrangement": "Fryderyk Franciszek Chopin"
   }
 ]
