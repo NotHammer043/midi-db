@@ -2078,5 +2078,13 @@
     "imageFilename": "yea_260.jpg",
     "githubUser": "Quadsazer",
     "arrangement": "Torby Brand"
+  },
+  {
+    "name": "Fairytale (2009 Eurovision Winner \"Norway\")",
+    "artists": "Alexander Rybak",
+    "midiFilename": "Alexander_Rybak_-_Fairytale_261.mid",
+    "imageFilename": "fairytale_261.png",
+    "githubUser": "NightKikko",
+    "arrangement": "Neckiy (https://musescore.com/user/26887312)"
   }
 ]
