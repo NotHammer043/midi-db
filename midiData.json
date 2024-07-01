@@ -2094,5 +2094,13 @@
     "imageFilename": "ab67616d0000b27368968350c2550e36d96344ee_262.jpg",
     "githubUser": "NotHammer043",
     "arrangement": "none"
+  },
+  {
+    "name": "Finale",
+    "artists": "Toby Fox",
+    "midiFilename": "Finale_Undertale_263.mid",
+    "imageFilename": "undertale_263.png",
+    "githubUser": "NotHammerer043",
+    "arrangement": "Actualglacier"
   }
 ]
