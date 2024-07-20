@@ -2136,7 +2136,7 @@
     "arrangement": "xZeron"
   },
   {
-    "name": "Zen Zen Zense/ 前前前世",
+    "name": "Zen Zen Zense/ \u524d\u524d\u524d\u4e16",
     "artists": "RADWIMPS",
     "midiFilename": "Zen_Zen_Zense__Kimi_no_Na_wa__Theishter_268.mid",
     "imageFilename": "640x640_268.png",
@@ -2150,5 +2150,13 @@
     "imageFilename": "-sFhGAtlLce24zLEPtUz74FAbn6KYpYVPqtW1sTBBl8_269.jpg",
     "githubUser": "ZACKfgteev1YT",
     "arrangement": "ZACKfgteev1YT"
+  },
+  {
+    "name": "Brother Louie",
+    "artists": "Modern Talking",
+    "midiFilename": "Brother_Louie_270.mid",
+    "imageFilename": "bl_270.png",
+    "githubUser": "NightKIkko",
+    "arrangement": "SoiTrang"
   }
 ]
