@@ -2174,5 +2174,13 @@
     "imageFilename": "Pantropiko_272.png",
     "githubUser": "NotHammer043",
     "arrangement": "mrcarlothepianist"
+  },
+  {
+    "name": "Pasilyo",
+    "artists": "SunKissed Lola",
+    "midiFilename": "pasilyo_273.mid",
+    "imageFilename": "Pasilyo_273.png",
+    "githubUser": "NotHammer043",
+    "arrangement": "sook"
   }
 ]
