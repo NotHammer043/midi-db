@@ -1,3 +1,5 @@
+# This repository is now discontinued. We have transitioned into using an actual database.
+
 <img src="https://i.imgur.com/PUR9ROE.png" alt="nanoMIDI" width="200px"/>
 
 > nanoMIDI's Official MIDI Repository
